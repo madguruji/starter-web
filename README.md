@@ -15,4 +15,8 @@ Sample website with plenty of files for demos
 This is Sample project
 
 ## git comparison
-Adding git coparisons lecture 
+Adding git coparisons lecture
+
+## GIThub Content and Templates
+
+Comparison with repos 
